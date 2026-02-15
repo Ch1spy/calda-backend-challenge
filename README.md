@@ -11,7 +11,7 @@ E-commerce backend application built with Supabase.
 
 Clone and start:
 ```bash
-git clone https://github.com/YOUR_USERNAME/calda-backend-challenge.git
+git clone https://github.com/Ch1spy/calda-backend-challenge.git
 cd calda-backend-challenge
 supabase start
 ```
@@ -53,4 +53,3 @@ supabase functions deploy create-order
 ## Author
 
 Dmitri Brglez
-EOF
