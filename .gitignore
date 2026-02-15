@@ -1,0 +1,20 @@
+# Supabase
+.branches
+.temp
+
+# Environment
+.env
+.env.local
+
+# Credentials (only for .zip submission)
+CREDENTIALS.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+EOFsupabase/snippets/
