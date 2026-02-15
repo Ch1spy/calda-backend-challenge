@@ -1,0 +1,1 @@
+SELECT id, name, price_cents FROM items LIMIT 1;
